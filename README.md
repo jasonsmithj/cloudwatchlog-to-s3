@@ -8,6 +8,6 @@ Using AWS Lambda, export logs to AWS CloudWatch logs to S3.
 Python 3
 
 ## Environment variable
-LOG_GROUP - Log Group on CloudWatch Log
+LOG_GROUP - Log Group on CloudWatch Log. When specifying more than one, csv format can be used.
 
 BUCKET_NAME -S3 Bucket Name
